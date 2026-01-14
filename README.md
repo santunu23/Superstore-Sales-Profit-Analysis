@@ -34,4 +34,4 @@ Top Shipping Mode: First Class shipping yields the highest average profit per or
 🔗 Links
 Kaggle Notebook: https://www.kaggle.com/code/santunu23/superstore-sales-profit-analysis-sql-tableau
 
-Tableau Dashboard: [[(https://public.tableau.com/views/RetailGrowthCustomerLoyaltyAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]]
+Tableau Dashboard: (https://public.tableau.com/views/RetailGrowthCustomerLoyaltyAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
